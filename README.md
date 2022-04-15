@@ -1,6 +1,6 @@
 ## Hello, I'm Utkarsh Sarkari👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+my+teachers+call+me+Sarkari)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UtkarshSarkari&label=Views&color=blue&style=plastic" alt="UtkarshSarkari"/> </p>
 
