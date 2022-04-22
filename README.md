@@ -36,3 +36,21 @@
 <div align="center">
 Show some ❤️ by starring some of the repositories!
 </div>
+
+## 🔥 Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kiranpalsingh1806&theme=tokyonight_duo&hide_border=true" alt="kiranpalsingh1806" />
+  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+</p>
+
+
+**Languages and Tools:**  
+- HTML, CSS and Javascript
+- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+- PHP and Laravel
+
+<br/>
+<a href="https://github.com/utkarshsarkari">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshsarkari&show_icons=true&theme=light&line_height=27" alt="Utkarsh's github stats"/>
+</a>
