@@ -40,7 +40,7 @@ Show some ❤️ by starring some of the repositories!
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kiranpalsingh1806&theme=tokyonight_duo&hide_border=true" alt="kiranpalsingh1806" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsarkari&theme=tokyonight_duo&hide_border=true" alt="kiranpalsingh1806" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
