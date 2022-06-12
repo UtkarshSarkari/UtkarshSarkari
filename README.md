@@ -15,21 +15,27 @@
 <br/> 
 
 
-- 🔭 I’m currently working on [my skills].
+- 🔭 I’m currently working on my skills.
 - 🌱 I’m currently doing full stack development.
-- 🤔 I’m looking forward for more contribution in 2022.
-- 🌱 I’m active participant in Competitive Coding Contests.
+- 🤔 I’m looking forward for more contribution in future.
 - 🤔 I’m looking forward for developing cutting edge websites.
 
 
 **Languages and Tools:**  
 - HTML
 - CSS
+- SCSS
 - Javascript
-- ReactJS
-- NodeJS
+- Bootstrap
+- ReactJs
+- NodeJs
+- Express Js
+- MongoDb
 - PHP
 - Laravel
+- Firebase
+- Git
+- GitHub
 
 <br/>
 
@@ -40,7 +46,7 @@ Show some ❤️ by starring some of the repositories!
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsarkari&theme=tokyonight_duo&hide_border=true" alt="kiranpalsingh1806" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsarkari&theme=tokyonight_duo&hide_border=true" alt="utkarshsarkari" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
