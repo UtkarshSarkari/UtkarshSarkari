@@ -24,18 +24,22 @@
 **Languages and Tools:**  
 - HTML
 - CSS
-- SCSS
 - Javascript
 - Bootstrap
 - ReactJs
+- Chakra UI
+- Material UI
 - NodeJs
 - Express Js
 - MongoDb
-- PHP
-- Laravel
+- SQL
+- Postman
+- Linux
+- Windows
 - Firebase
 - Git
 - GitHub
+- Project Management
 
 <br/>
 
